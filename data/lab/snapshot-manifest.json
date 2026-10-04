@@ -1,0 +1,156 @@
+{
+  "retrievedAt": "2026-10-04T13:14:11.087Z",
+  "source": "https://summer-26-convexity-lab.z5db74zs6k.chatgpt.site",
+  "report": [
+    {
+      "resource": "macro",
+      "status": "collected",
+      "asOf": "2026-08-31"
+    },
+    {
+      "resource": "fund-suite",
+      "status": "collected",
+      "asOf": "2026-10-01"
+    },
+    {
+      "resource": "global-markets",
+      "status": "collected",
+      "asOf": "2026-10-04T04:21:36.000Z"
+    },
+    {
+      "resource": "rates",
+      "status": "collected",
+      "asOf": "10/02/2026"
+    },
+    {
+      "resource": "bond-market",
+      "status": "collected",
+      "asOf": "2026-10-02T20:00:01.000Z"
+    },
+    {
+      "resource": "fx",
+      "status": "collected",
+      "asOf": "2026-10-02"
+    },
+    {
+      "resource": "sectors",
+      "status": "collected",
+      "asOf": "2026-10-02"
+    },
+    {
+      "resource": "market?symbol=NVDA",
+      "status": "collected",
+      "asOf": "2026-10-02T20:00:01.000Z"
+    },
+    {
+      "resource": "market?symbol=MSFT",
+      "status": "collected",
+      "asOf": "2026-10-02T20:00:01.000Z"
+    },
+    {
+      "resource": "market?symbol=AAPL",
+      "status": "collected",
+      "asOf": "2026-10-02T20:00:01.000Z"
+    },
+    {
+      "resource": "market?symbol=SPY",
+      "status": "collected",
+      "asOf": "2026-10-02T20:00:00.000Z"
+    },
+    {
+      "resource": "market?symbol=XLK",
+      "status": "collected",
+      "asOf": "2026-10-02T20:00:00.000Z"
+    },
+    {
+      "resource": "market?symbol=XLF",
+      "status": "collected",
+      "asOf": "2026-10-02T20:00:00.000Z"
+    },
+    {
+      "resource": "market?symbol=XLE",
+      "status": "collected",
+      "asOf": "2026-10-02T20:00:00.000Z"
+    },
+    {
+      "resource": "market?symbol=XLV",
+      "status": "collected",
+      "asOf": "2026-10-02T20:00:00.000Z"
+    },
+    {
+      "resource": "market?symbol=XLI",
+      "status": "collected",
+      "asOf": "2026-10-02T20:00:00.000Z"
+    },
+    {
+      "resource": "market?symbol=XLP",
+      "status": "collected",
+      "asOf": "2026-10-02T20:00:00.000Z"
+    },
+    {
+      "resource": "market?symbol=XLB",
+      "status": "collected",
+      "asOf": "2026-10-02T20:00:00.000Z"
+    },
+    {
+      "resource": "market?symbol=XLY",
+      "status": "collected",
+      "asOf": "2026-10-02T20:00:00.000Z"
+    },
+    {
+      "resource": "market?symbol=XLU",
+      "status": "collected",
+      "asOf": "2026-10-02T20:00:00.000Z"
+    },
+    {
+      "resource": "market?symbol=XLC",
+      "status": "collected",
+      "asOf": "2026-10-02T20:00:00.000Z"
+    },
+    {
+      "resource": "market?symbol=XLRE",
+      "status": "collected",
+      "asOf": "2026-10-02T20:00:00.000Z"
+    },
+    {
+      "resource": "market?symbol=FXE",
+      "status": "collected",
+      "asOf": "2026-10-02T20:00:00.000Z"
+    },
+    {
+      "resource": "market?symbol=FXB",
+      "status": "collected",
+      "asOf": "2026-10-02T19:44:03.000Z"
+    },
+    {
+      "resource": "factors?symbol=NVDA",
+      "status": "collected",
+      "asOf": "2026-10-02T20:00:01.000Z"
+    },
+    {
+      "resource": "market?symbol=FXY",
+      "status": "collected",
+      "asOf": "2026-10-02T20:00:00.000Z"
+    },
+    {
+      "resource": "factors?symbol=SPY",
+      "status": "collected",
+      "asOf": "2026-10-02T20:00:00.000Z"
+    },
+    {
+      "resource": "factors?symbol=AAPL",
+      "status": "collected",
+      "asOf": "2026-10-02T20:00:01.000Z"
+    },
+    {
+      "resource": "factors?symbol=MSFT",
+      "status": "collected",
+      "asOf": "2026-10-02T20:00:01.000Z"
+    },
+    {
+      "resource": "market?symbol=FXF",
+      "status": "collected",
+      "asOf": "2026-10-02T19:59:54.000Z"
+    }
+  ]
+}
