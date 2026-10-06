@@ -1,0 +1,1 @@
+import{v as e,x as t}from"./index-DqAxSJ6N.js";import{Q as n,t as r}from"./CartesianChart-UsEHXGAL.js";var i=t(e()),a=[`axis`],o=(0,i.forwardRef)((e,t)=>i.createElement(r,{chartName:`LineChart`,defaultTooltipEventType:`axis`,validateTooltipEventTypes:a,tooltipPayloadSearcher:n,categoricalChartProps:e,ref:t}));export{o as t};
